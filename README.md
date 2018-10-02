@@ -6,7 +6,7 @@ Para eso lo mejor es ponerlas a prueba. ¿Cómo? desarrollando la propuesta de d
 ### ¿que necesitas para hacer el challenge?
 
 - Diseño: Mock 1280px, responsive, guidelines. https://projects.invisionapp.com/d/main#/projects/prototypes/15530047
-¿No tenes acceso? pedilo a mmassimino@fromdoppler.com
+Ya lo tenes compartido, pero como todo puede fallar, si tenes problemas mandate un email a mmassimino@fromdoppler.com
 
 - Trackear el tiempo (contanos que conocimiento previo tenías de cada una)
 Conclusiones (cual se adaptó mejor, ¿por qué?)
