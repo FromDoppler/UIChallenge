@@ -13,4 +13,8 @@ Conclusiones (cual se adaptó mejor, ¿por qué?)
 
 - Al final del challenge nos juntaremos a definir un ganador =)
 
-## SUERTE! y que gane el mejor
+#### SUERTE! y que gane el mejor
+
+-----------------------------------------------
+
+## guiño guiño: además del aprendizaje tenemos otro regalo planificado para los que se copen =)
