@@ -2,7 +2,7 @@
 
 ### ¿Quién es mejor? ¿FLEX o GRID? THAT IS THE QUESTION =)
 
-Para eso lo mejor es ponerlas a prueba. ¿Cómo? desarrollando la propuesta de diseño adjunta, por un lado en FLEX y por otro en GRID y después compartir insights, pros y contras.
+Para eso lo mejor es ponerlas a prueba. ¿Cómo? desarrollando la propuesta de diseño adjunta, por un lado en _FLEX_ y por otro en _GRID_ y después compartir insights, pros y contras.
 
 ### ¿que necesitas para hacer el challenge?
 
