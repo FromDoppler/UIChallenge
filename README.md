@@ -24,3 +24,10 @@ Ya lo tenes compartido, pero como todo puede fallar, si tenés problemas mandate
 -----------------------------------------------
 
 **guiño guiño: además del aprendizaje tenemos otro regalo planificado para los que se copen =)**
+
+-----------------------------------------------
+
+### Aceptaron el desafío
+
+* Luciana: [POC](lgarcia/)
+* Mariana: [Flex](mmassimino/flex.html), [Grid](mmassimino/grid.html)
