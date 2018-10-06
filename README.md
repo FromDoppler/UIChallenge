@@ -2,12 +2,12 @@
 
 ### ¿Quién es mejor? ¿FLEX o GRID? THAT IS THE QUESTION =)
 
-Para eso lo mejor es ponerlas a prueba. ¿Cómo? desarrollando la propuesta de diseño adjunta por un lado en FLEX y por otro en GRID y despues compartir insights, pros y contras.
+Para eso lo mejor es ponerlas a prueba. ¿Cómo? desarrollando la propuesta de diseño adjunta, por un lado en FLEX y por otro en GRID y después compartir insights, pros y contras.
 
 ### ¿que necesitas para hacer el challenge?
 
-- Diseño: Mock 1280px, responsive, guidelines. [Ver en Invision](https://projects.invisionapp.com/d/main#/projects/prototypes/15530047)
-Ya lo tenes compartido, pero como todo puede fallar, si tenes problemas mandate un email a <mmassimino@fromdoppler.com> o si simplemente querés chusmear podes acceder [acá](https://projects.invisionapp.com/share/KQOC0Z6XZ4W)
+- Diseño: Mock 1280px, responsive, guidelines. [Ver en Invision](https://projects.invisionapp.com/d/main#/projects/prototypes/15530047).
+Ya lo tenes compartido, pero como todo puede fallar, si tenés problemas mandate un email a <mmassimino@fromdoppler.com> o si simplemente querés chusmear podés acceder [acá](https://projects.invisionapp.com/share/KQOC0Z6XZ4W)
 
 - Trackear el tiempo (contanos que conocimiento previo tenías de cada una)
 
