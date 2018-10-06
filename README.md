@@ -15,6 +15,10 @@ Ya lo tenes compartido, pero como todo puede fallar, si tenés problemas mandate
 
 - Al final del challenge nos juntaremos a definir un ganador =)
 
+### Preview del diseño
+
+![Preview del diseño](https://s3.invisionapp-cdn.com/storage.invisionapp.com/screens/files/322661617.png?x-amz-meta-iv=8&response-cache-control=max-age%3D2419200&x-amz-meta-ck=70f8b3be5307333638a63ca86ee90c37&AWSAccessKeyId=AKIAJFUMDU3L6GTLUDYA&Expires=1541030400&Signature=ZpUC0q%2FWr91uUXcGhOMwsA%2BLC2I%3D)
+
 **SUERTE! y que gane el mejor**
 
 -----------------------------------------------
