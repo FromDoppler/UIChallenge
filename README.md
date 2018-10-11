@@ -31,3 +31,4 @@ Ya lo tenes compartido, pero como todo puede fallar, si tenés problemas mandate
 
 * Luciana: [POC](lgarcia/)
 * Mariana: [Flex](mmassimino/flex.html), [Grid](mmassimino/grid.html)
+* Nacho: [Grid](irodrigues/grid.html)
