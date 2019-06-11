@@ -7,7 +7,7 @@ Para eso lo mejor es ponerlas a prueba. ¿Cómo? desarrollando la propuesta de d
 ### ¿que necesitas para hacer el challenge?
 
 - Diseño: Mock 1280px, responsive, guidelines. [Ver en Invision](https://projects.invisionapp.com/d/main#/projects/prototypes/15530047).
-Ya lo tenes compartido, pero como todo puede fallar, si tenés problemas mandate un email a <mmassimino@fromdoppler.com> o si simplemente querés chusmear podés acceder [acá](https://projects.invisionapp.com/share/KQOC0Z6XZ4W)
+Ya lo tenes compartido, pero como todo puede fallar, si tenés problemas mandate un email a <irodrigues@fromdoppler.com> o si simplemente querés chusmear podés acceder [acá](https://projects.invisionapp.com/share/KQOC0Z6XZ4W)
 
 - Trackear el tiempo (contanos que conocimiento previo tenías de cada una)
 
