@@ -1,0 +1,228 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Nunito', Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    color: #333333;
+}
+/* STRUCTURE */
+main{
+    padding: 100px 0 0 100px;
+}
+
+section{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+article{
+    padding-bottom: 100px;
+    max-width: 620px;
+}
+article h5{
+    padding-bottom: 24px;
+}
+.row{
+    max-width: 100%;
+}
+.row-medium{
+    max-width: 100%;
+}
+.flex-calendar{
+    display: flex;
+    height: 100%;
+    flex-flow: wrap;
+}
+.big{
+    padding: 40px 35px;
+    height: 390px;
+    min-width: 375px;
+    width: 30%;
+    margin: 0 0 10px 10px;
+    flex-grow: 100;
+    position: relative;
+}
+.big small{
+    margin-bottom: 58px;
+}
+.medium{
+    padding: 30px 35px;
+    max-width: 375px;
+    width: 100%;
+    height: 190px;
+    margin: 0 0 10px 10px;
+    flex-grow: 100;
+    position: relative;
+}
+.small{
+    padding: 25px;
+    max-width: 187px;
+    width: 100%;
+    height: 190px;
+    margin: 0 0 10px 10px;
+    position: relative;
+}
+.medium small, .small small{
+    margin-bottom: 35px;
+}
+.medium h5, .small h5{
+    color: #ffffff;
+}
+.flex-footer{
+    padding: 100px 0 160px; 
+    display: flex;
+    justify-content: flex-end;
+}
+.footer-content{
+    max-width: 690px;
+    padding-right: 100px;
+}
+.footer-content h5{
+    padding-bottom: 70px; 
+}
+.footer-content h3{
+    padding: 15px 5px 20px; 
+}
+.slack{
+    align-self: flex-end;
+    padding-right: 10px;
+}
+/* HEADINGS */
+h1, h2, h3, h4, h5, p, small{    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    word-break: break-word;
+}
+
+h1{
+    font-family: 'Nunito';
+    font-size: 70px;
+    color: #333333;
+    letter-spacing: -1px;
+    line-height: 76px;
+    font-weight: 200;
+}
+h2{
+    font-family: 'Nunito';
+    font-size: 55px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 56px;
+    font-weight: 300;
+}
+h3{
+    font-family: 'Nunito';
+    font-size: 40px;
+    color: #333333;
+    letter-spacing: 0;
+    line-height: 46px;
+    font-weight: 300;
+}
+h4{
+    font-family: 'Nunito';
+    font-size: 30px;
+    color: #333333;
+    letter-spacing: 0;
+    line-height: 36px;
+    font-weight: 400;
+}
+h5{
+    font-family: 'Nunito';
+    font-size: 22px;
+    color: #333333;
+    letter-spacing: 0;
+    line-height: 28px;
+    font-weight: 400;
+}
+p{
+    font-family: 'Nunito';
+    font-size: 18px;
+    color: #333333;
+    letter-spacing: 0;
+    line-height: 26px;
+    font-weight: 400;
+}
+small{
+    font-family: 'Nunito';
+    font-size: 12px;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: 16px;
+    font-weight: 700;
+    display: block;
+}
+a {
+    color: #FBB224;
+    text-decoration: none;
+}
+a:hover{
+    color: #E58900;
+}
+/* BACKGROUNDS COLORS*/
+.yellow{
+    background-color: #FBB224;
+}
+.violet{
+    background-color: #B787C6;
+}
+.grey{
+    background-color: #333333;
+}
+/* BOX - SCHEDULE HOVER*/
+.big:hover .schedule, .medium:hover .schedule, .small:hover .schedule{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+}
+.schedule{
+    display: none;
+    background: rgba(255,255,255,0.95);
+    min-height: 90%;
+    align-items: center;    
+    padding: 0 7%;
+}
+.schedule small{
+    color: #333333;
+    margin: 0;
+}
+button {
+    font-family: 'Nunito';
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 700;
+    color: #333333;
+    padding: 14px;
+    border: 1px solid #333333;
+    cursor: pointer;
+    margin-top: 24px;
+}
+button:hover{
+    background: rgba(51,51,51,0.20); 
+}
+
+@media only screen and (max-width: 1024px) {
+    .row{
+        display: flex;
+        flex-grow: 1;
+    }
+    .medium{
+        max-width: none;
+        width: 100%  
+    }
+    .small{
+    max-width: none;
+    width: 100%
+    }
+    .flex-footer {
+    justify-content: flex-start; 
+    }
+@media only screen and (max-width: 768px) {
+    .slack{
+    display: none;
+    }
+}
